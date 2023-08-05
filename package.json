@@ -1,0 +1,13 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Santiago Garcia <santiago.garcia@posteo.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "@unocss/preset-uno": "^0.54.1",
+    "@unocss/vite": "^0.54.1",
+    "unocss": "^0.54.1",
+    "vite": "^4.4.8"
+  }
+}
